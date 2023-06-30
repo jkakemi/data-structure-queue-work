@@ -1,5 +1,6 @@
 # data-structure-queue-work
 University work on queue data structure in C.
+
 O estacionamento do seu Zé modernizou-se, agora tem uma entrada e uma
 saída que guarda até dez carros. Os carros entram pela extremidade sul do
 estacionamento e saem pela extremidade norte. Se chegar um cliente para
